@@ -1,0 +1,8 @@
+../HAL/TOF/tof_pp.c:6:6:TOF_InitStruct	1
+../HAL/TOF/tof_pp.c:14:6:TOF_TurnOn	1
+../HAL/TOF/tof_pp.c:19:6:TOF_TurnOff	1
+../HAL/TOF/tof_pp.c:24:6:TOF_BootMultipleSensors	3
+../HAL/TOF/tof_pp.c:34:6:TOF_BootSensor	3
+../HAL/TOF/tof_pp.c:60:6:TOF_StartRanging	1
+../HAL/TOF/tof_pp.c:65:6:TOF_StopRanging	1
+../HAL/TOF/tof_pp.c:70:10:TOF_GetDistance	1

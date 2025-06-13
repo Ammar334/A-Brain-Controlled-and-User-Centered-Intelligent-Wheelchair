@@ -1,0 +1,4 @@
+../HAL/Geroscope/MPU6050.c:9:6:MPU6050_Init	40	static
+../HAL/Geroscope/MPU6050.c:24:6:MPU6050_Read_Accel	48	static
+../HAL/Geroscope/MPU6050.c:34:7:Get_Roll	16	static
+../HAL/Geroscope/MPU6050.c:37:7:Get_Pitch	24	static
